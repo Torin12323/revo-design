@@ -11,7 +11,7 @@ export type WorkItem = {
   sub: Record<Lang, string>;
 };
 
-export const EMAIL = "q18617420447@163.com";
+export const EMAIL = "16632905663tao@gmail.com";
 export const PHONE = "16632905663";
 
 export const masters = [
